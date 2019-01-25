@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/counter/main",
+    "pages/warn/main",
+    "pages/remind/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/main",
+        "iconPath": "static/icons/warn.png",
+        "selectedIconPath": "static/icons/warn_selected.png",
+        "text": "知识"
+      },
+      {
+        "pagePath": "pages/warn/main",
+        "iconPath": "static/icons/pharmacy.png",
+        "selectedIconPath": "static/icons/pharmacy_selected.png",
+        "text": "用药提醒"
+      },
+      {
+        "pagePath": "pages/logs/main",
+        "iconPath": "static/icons/supplies.png",
+        "selectedIconPath": "static/icons/supplies_selected.png",
+        "text": "体征管理"
+      },
+      {
+        "pagePath": "pages/counter/main",
+        "iconPath": "static/icons/user.png",
+        "selectedIconPath": "static/icons/user_selected.png",
+        "text": "我"
+      }
+    ]
+  }
+}

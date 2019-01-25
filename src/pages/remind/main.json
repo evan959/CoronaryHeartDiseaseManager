@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "设置定时提醒",
+  "usingComponents": {
+    "van-field": "/static/vant/dist/field/index",
+    "van-cell-group": "/static/vant/dist/cell-group/index",
+    "van-cell": "/static/vant/dist/cell/index",
+    "van-popup": "/static/vant/dist/popup/index",
+    "van-datetime-picker": "/static/vant/dist/datetime-picker/index",
+    "van-radio": "/static/vant/dist/radio/index",
+    "van-radio-group": "/static/vant/dist/radio-group/index"
+  }
+}

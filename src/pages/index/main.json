@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "主页",
+  "usingComponents": {
+    "van-button": "/static/vant/dist/button/index",
+    "van-cell": "/static/vant/dist/cell/index",
+    "van-cell-group": "/static/vant/dist/cell-group/index",
+    "van-tabbar": "/static/vant/dist/tabbar/index",
+    "van-tabbar-item": "/static/vant/dist/tabbar-item/index"
+  }
+}
