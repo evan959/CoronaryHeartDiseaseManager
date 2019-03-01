@@ -4,7 +4,8 @@
     "pages/logs/main",
     "pages/counter/main",
     "pages/warn/main",
-    "pages/remind/main"
+    "pages/remind/main",
+    "pages/vitalsign/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -27,7 +28,7 @@
         "text": "用药提醒"
       },
       {
-        "pagePath": "pages/logs/main",
+        "pagePath": "pages/vitalsign/main",
         "iconPath": "static/icons/supplies.png",
         "selectedIconPath": "static/icons/supplies_selected.png",
         "text": "体征管理"

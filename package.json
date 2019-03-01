@@ -17,7 +17,9 @@
     "build": "node build/build.js wx"
   },
   "dependencies": {
+    "echarts": "^4.1.0",
     "mpvue": "^1.0.11",
+    "mpvue-echarts": "^0.2.7",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
